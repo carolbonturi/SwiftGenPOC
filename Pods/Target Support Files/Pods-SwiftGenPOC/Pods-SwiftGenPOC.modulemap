@@ -1,0 +1,6 @@
+framework module Pods_SwiftGenPOC {
+  umbrella header "Pods-SwiftGenPOC-umbrella.h"
+
+  export *
+  module * { export * }
+}

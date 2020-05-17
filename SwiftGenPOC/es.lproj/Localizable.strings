@@ -1,0 +1,3 @@
+"EMAIL_VALIDATION_TITLE_FINISH_FLOW" = "Para terminar el registro confirma tu correo electrónico";
+"EMAIL_VALIDATION_TITLE_BEGIN_FLOW" = "Para empezar el registro confirma tu correo electrónico";
+"EMAIL_VALIDATION_BODY" = "Confirma tu correo electrónico a través del mensaje que enviamos a <bold>%@</bold>";

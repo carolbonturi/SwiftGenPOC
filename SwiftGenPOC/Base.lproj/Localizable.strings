@@ -1,0 +1,3 @@
+"EMAIL_VALIDATION_TITLE_FINISH_FLOW" = "Para terminar o cadastro confirme seu e-mail";
+"EMAIL_VALIDATION_TITLE_BEGIN_FLOW" = "Para começar o cadastro confirme seu e-mail";
+"EMAIL_VALIDATION_BODY" = "Confirme seu e-mail através da mensagem que enviamos para <bold>%@</bold>";
